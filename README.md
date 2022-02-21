@@ -1,9 +1,9 @@
 ## 💠 Hello Everyone
 
 - 🔭 I'm currently working on [Scuttle Crab](https://scuttlecrab.ml).
-- 🌱 I'm currently learning Python.
+- 🌱 I'm currently learning Java.
 - 💬 Ask me about my [Discord bots](https://discord.gg/YSgffRkEUq).
-- 📫 How to contact me: Find me on discord as **FabrizioCoder#1803**.
+- 📫 How to contact me: Find me on discord as **`FabrizioCoder#1803`**.
 - ⚡ Fun fact: I'm from Mexico.
 - 💠 My favorite hobbies are play League of Legends and programming.
 

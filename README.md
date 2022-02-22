@@ -31,6 +31,9 @@ world_people.append(Fabrizio)
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka--> 
  
 </details>

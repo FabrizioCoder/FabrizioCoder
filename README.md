@@ -34,7 +34,7 @@ world_people.append(Fabrizio)
   
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     32 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka--> 
  

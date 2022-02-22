@@ -13,6 +13,9 @@
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🔰 Discord:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/221399196480045056?idleMessage=I%27m+probably+playing+League+of+Legends...)](https://discord.com/users/221399196480045056)

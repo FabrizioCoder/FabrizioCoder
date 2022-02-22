@@ -2,6 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fb5a1b44-cf05-44dd-9651-e6216924c822/project/9e48f44d-1456-4987-96ac-7f6f4300b520.svg)](https://wakatime.com/badge/user/fb5a1b44-cf05-44dd-9651-e6216924c822/project/9e48f44d-1456-4987-96ac-7f6f4300b520)
 ![GitHub User's stars](https://img.shields.io/github/stars/FabrizioCoder?label=user%20stars)
+
 ```python
 Fabrizio = {
     'name': 'Fabrizio',
@@ -9,6 +10,7 @@ Fabrizio = {
     'age': '15',
     'languages': ['Spanish'],
     'working_on': 'Scuttle Crab',
+    'learning': 'Java',
     'favorite_foods': ['Tacos', 'Pizza', 'Paste'],
     'ask_me_about': ['Scuttle Crab', 'League of Legends', 'Python'],
     'favorite_games': ['League of Legends', 'Minecraft'],

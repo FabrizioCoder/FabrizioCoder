@@ -33,10 +33,13 @@ world_people.append(Fabrizio)
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
 <!--START_SECTION:waka-->
+
 ```text
-Python     1 hr 26 mins    █████████████████░░░░░░░░   68.11 % 
-Markdown   39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
+Python     1 hr 26 mins    █████████████████░░░░░░░░   68.11 %
+Markdown   39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
+
 <!--END_SECTION:waka--> 
  
 </details>

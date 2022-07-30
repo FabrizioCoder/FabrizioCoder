@@ -1,6 +1,6 @@
 ## 💠 Hello Everyone
 
-[![wakatime](https://wakatime.com/badge/user/fb5a1b44-cf05-44dd-9651-e6216924c822/project/9e48f44d-1456-4987-96ac-7f6f4300b520.svg)](https://wakatime.com/badge/user/fb5a1b44-cf05-44dd-9651-e6216924c822/project/9e48f44d-1456-4987-96ac-7f6f4300b520)
+[![wakatime](https://wakatime.com/badge/user/fb5a1b44-cf05-44dd-9651-e6216924c822.svg)](https://wakatime.com/@fb5a1b44-cf05-44dd-9651-e6216924c822)
 ![GitHub User's stars](https://img.shields.io/github/stars/FabrizioCoder?label=user%20stars)
 
 ```python

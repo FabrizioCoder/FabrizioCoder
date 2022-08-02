@@ -32,6 +32,10 @@ world_people.append(Fabrizio)
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FabrizioCoder/FabrizioCoder/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
+<a href="https://wakatime.com/@FabrizioCoder" target="_blank">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=FabrizioCoder&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats&langs_count=3">
+</a>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,7 +47,7 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka--> 
- 
+    
 </details>
 
 

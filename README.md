@@ -16,7 +16,7 @@ Fabrizio = {
     'favorite_games': ['League of Legends', 'Minecraft'],
     'favorite_color': 'Blue',
     'hobbies': ['Play League of Legends', 'Play Minecraft', 'Programming'],
-    'discord': 'FabrizioCoder#1803',
+    'discord': 'FabrizioCoder#6030',
 }
 
 world_people = []

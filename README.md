@@ -56,5 +56,5 @@ Markdown         24 mins         ▒░░░░░░░░░░░░░░�
 <summary>🔰 Discord</summary>
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/221399196480045056?idleMessage=I%27m+probably+playing+League+of+Legends...)](https://discord.com/users/221399196480045056)
+[![Discord Presence](https://lanyard.cnrad.dev/api/221399196480045056)](https://discord.com/users/221399196480045056)
 </details>

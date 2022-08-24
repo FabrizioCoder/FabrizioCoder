@@ -39,9 +39,9 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```text
-Java         5 hrs 57 mins   ███████████████████████▓░   95.08 %
-XML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Java         6 hrs 25 mins   ████████████████████████░   95.42 %
+XML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 

@@ -39,7 +39,8 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Properties   17 mins         ████████████████████▒░░░░   81.78 %
+YAML         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
 ```
 
 <!--END_SECTION:waka--> 

@@ -9,14 +9,14 @@ Fabrizio = {
     'country': 'México',
     'age': '16',
     'languages': ['Spanish'],
-    'working_on': 'Scuttle Crab',
+    'working_on': 'Luxanna',
     'learning': 'Java',
     'favorite_foods': ['Tacos', 'Pizza', 'Paste'],
     'ask_me_about': ['Scuttle Crab', 'League of Legends', 'Python'],
     'favorite_games': ['League of Legends', 'Minecraft'],
     'favorite_color': 'Blue',
     'hobbies': ['Play League of Legends', 'Play Minecraft', 'Programming'],
-    'discord': 'FabrizioCoder#6030',
+    'discord': 'fabriziocoder',
 }
 
 world_people = []

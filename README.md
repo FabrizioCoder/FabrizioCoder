@@ -39,11 +39,11 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 10 mins   ███████████████████▓░░░░░   78.00 %
-JSON         1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Astro        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   1 hr 16 mins    █████████████████████▓░░░   86.29 %
+JSON         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+Mason        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka--> 

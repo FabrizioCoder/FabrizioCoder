@@ -39,7 +39,8 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON   11 mins         ████████████████████░░░░░   80.35 %
+Bash   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.65 %
 ```
 
 <!--END_SECTION:waka--> 

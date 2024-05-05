@@ -39,11 +39,11 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 36 mins    ████████████████▒░░░░░░░░   65.76 %
-MDX          37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-TypeScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python       2 hrs 29 mins   ██████████████████▓░░░░░░   74.95 %
+MDX          37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+TypeScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka--> 

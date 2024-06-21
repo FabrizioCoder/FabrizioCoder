@@ -39,9 +39,7 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-Other   5 mins          ██████████████▒░░░░░░░░░░   56.83 %
-Mason   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-HTML    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 

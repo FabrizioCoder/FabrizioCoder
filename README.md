@@ -7,9 +7,9 @@
 Fabrizio = {
     'name': 'Fabrizio',
     'country': 'México',
-    'age': '16',
+    'age': '17',
     'languages': ['Spanish'],
-    'working_on': 'Luxanna',
+    'working_on': 'My portfolio & sometimes in Luxanna lol',
     'learning': 'Java',
     'favorite_foods': ['Tacos', 'Pizza', 'Paste'],
     'ask_me_about': ['Scuttle Crab', 'League of Legends', 'Python'],

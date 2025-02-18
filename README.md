@@ -22,7 +22,13 @@ Fabrizio = {
 world_people = []
 world_people.append(Fabrizio)
 ```
+<details>
+<summary>🎶 Apple Music</summary>
+<br>
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001438.f439551bb54d412fb491f85906f02831.0436)](https://github.com/rayriffy/apple-music-github-profile)
+
+</details>
 
 <details>
 <summary>📊 Stats</summary>

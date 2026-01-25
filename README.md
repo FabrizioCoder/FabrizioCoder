@@ -45,8 +45,7 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 mins          ██████████████████████▓░░   90.13 %
-C#           0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+C#   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 

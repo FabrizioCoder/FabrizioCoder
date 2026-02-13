@@ -45,7 +45,8 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              3 mins          ██████████████████▒░░░░░░   73.13 %
+Blade Template   1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
 ```
 
 <!--END_SECTION:waka--> 

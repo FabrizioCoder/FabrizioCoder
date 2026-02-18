@@ -45,8 +45,8 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   11 mins         ██████████████████▓░░░░░░   74.65 %
-PHP              3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+Blade Template   11 mins               ██████████████████▓░░░░░░   74.65 %
+PHP              3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
 ```
 
 <!--END_SECTION:waka--> 

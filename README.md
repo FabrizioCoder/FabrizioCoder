@@ -45,10 +45,8 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        14 mins               ██████████████▓░░░░░░░░░░   58.27 %
-Markdown   7 mins                ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-CSS        1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-PHP        1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+SQL        14 mins               ████████████████████▓░░░░   82.04 %
+Markdown   3 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
 ```
 
 <!--END_SECTION:waka--> 

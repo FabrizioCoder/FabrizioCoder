@@ -45,11 +45,11 @@ world_people.append(Fabrizio)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             1 hr 9 mins           █████████▒░░░░░░░░░░░░░░░   37.71 %
-Svelte          38 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Markdown        36 mins               █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-JavaScript      15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Git Config      14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+PHP             3 hrs 20 mins         █████████▓░░░░░░░░░░░░░░░   39.23 %
+Svelte          2 hrs 16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
+Markdown        1 hr 1 min            ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+SQL             57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+TypeScript      28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka--> 
